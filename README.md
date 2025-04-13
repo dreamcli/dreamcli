@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm dreamcli  
 
-<!--
-**dreamcli/dreamcli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code in **Python, JavaScript/TypeScript, and C++**, with a focus on **cybersecurity** and **OSINT**.  
+I listen to **breakcore, house, and techno** while working.  
 
-Here are some ideas to get you started:
+### Technologies & Interests  
+- **Languages**: Python, JavaScript/TypeScript, C++  
+- **Security**: OSINT, reverse engineering, network analysis  
+- **Tools**: Burp Suite, Wireshark, Metasploit, Maltego  
+- **Other**: Linux, Git, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact  
+- GitHub: [dreamcli](https://github.com/dreamcli)  
+- Twitter: [@dreamcli](https://x.com/dreamcli)  
